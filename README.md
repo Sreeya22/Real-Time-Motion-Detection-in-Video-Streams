@@ -25,7 +25,7 @@ This project implements a real-time motion detection system using OpenCV and Pyt
 
 ## Usage
 
-1. Place your input video file (e.g., `home_dog.mp4`) in the project directory.
+1. Place your input video file (e.g., `data.mp4`) in the project directory.
 2. Modify the `input_video` variable in the code to point to your video file.
 3. Run the script:
    ```bash
