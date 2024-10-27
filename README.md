@@ -37,11 +37,3 @@ This project implements a real-time motion detection system using OpenCV and Pyt
 ## Example
 
 After executing the program, the detected motion areas will be highlighted with red bounding boxes, demonstrating the system's ability to track moving objects in the video.
-
-## Contributing
-
-Feel free to contribute by submitting issues or pull requests to enhance the project!
-
-## License
-
-This project is open-source and available under the MIT License.
